@@ -2,6 +2,8 @@
 
 A macOS CLI tool for renaming screenshots with clean, organized naming patterns.
 
+> **Disclaimer:** This entire codebase was generated using AI (Artificial Intelligence). The code, documentation, and all related files were created with the assistance of AI tools.
+
 ## Features
 
 - 🎯 Automatically detects macOS screenshot files (Screenshot, Screen Shot, CleanShot)
@@ -220,3 +222,7 @@ done
 ## License
 
 MIT
+
+## Disclaimer
+
+This entire codebase was generated using AI (Artificial Intelligence). The code, documentation, and all related files were created with the assistance of AI tools.

@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 """
 airenamer - A macOS CLI tool for renaming screenshots
+
+Disclaimer: This entire codebase was generated using AI (Artificial Intelligence).
+The code, documentation, and all related files were created with the assistance of AI tools.
 """
 
 import sys
